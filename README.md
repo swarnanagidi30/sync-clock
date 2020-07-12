@@ -1,6 +1,6 @@
 # Synchronized Clocks
 
-This projects has two clocks which has been synchronized.
+This is an UI project which has two clocks and which has been synchronized means while editing the time of one clock will update the other clock's time .
 
 ---
 
@@ -74,6 +74,7 @@ $ yarn start
 
 ## Roadmap
 - cleanup code and can have shared code
+- enchance UI more fluid and responsive
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
