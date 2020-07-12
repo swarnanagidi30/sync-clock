@@ -17,9 +17,6 @@ This projects has two clocks which has been synchronized.
 
 ## Installation
 
-- All the `code` required to get started
-- Images of what it should look like
-
 ### Prerequisite
 
 - [Nodejs](https://nodejs.org/en/download/)

@@ -1,4 +1,4 @@
-name: React.js CI
+name: Sync-Clock CI
 on:
   push:
     branches:
