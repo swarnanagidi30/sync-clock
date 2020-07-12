@@ -1,0 +1,11 @@
+.App {
+  display: inline-block;
+  margin: auto;
+  text-align: center;
+  .leftDiv{
+    float: left;
+  }
+  .rightDiv{
+    float: right;
+  }
+}

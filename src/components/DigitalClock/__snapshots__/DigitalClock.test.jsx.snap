@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="digital-root"
+>
+  <div
+    className="digital-clock"
+  >
+    <div
+      className="inner"
+    >
+      <span
+        className="span"
+      >
+         
+        10
+      </span>
+      :
+      <span
+        className="span"
+      >
+        50
+      </span>
+      :
+      <span
+        className="span"
+      >
+        55
+      </span>
+    </div>
+    <div
+      className="clock-setting"
+    >
+      <i
+        aria-hidden="true"
+        className="fa fa-cog"
+        onClick={[Function]}
+      />
+    </div>
+  </div>
+</div>
+`;
