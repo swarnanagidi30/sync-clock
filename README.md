@@ -1,3 +1,4 @@
+![Sync-Clock CI](https://github.com/swarnanagidi30/sync-clock/workflows/Sync-Clock%20CI/badge.svg)
 # Synchronized Clocks
 
 This is an UI project which has two clocks and which has been synchronized means while editing the time of one clock will update the other clock's time .
